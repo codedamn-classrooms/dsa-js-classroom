@@ -1,8 +1,8 @@
-function palindrome(str) {
-	return true
+function convertToRoman(num) {
+	return num
 }
 
-palindrome('eye')
+convertToRoman(36)
 
 // do not edit below this line
-module.exports = palindrome
+module.exports = convertToRoman
