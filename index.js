@@ -3,6 +3,3 @@ function palindrome(str) {
 }
 
 palindrome('eye')
-
-// do not edit below this line
-module.exports = palindrome
