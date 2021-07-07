@@ -3,6 +3,3 @@ function rot13(str) {
 }
 
 rot13('SERR PBQR PNZC')
-
-// do not edit below this line
-module.exports = rot13
