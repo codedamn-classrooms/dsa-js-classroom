@@ -14,6 +14,3 @@ checkCashRegister(19.5, 20, [
 	['TWENTY', 60],
 	['ONE HUNDRED', 100]
 ])
-
-// do not edit below this line
-module.exports = checkCashRegister
